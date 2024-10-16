@@ -1,0 +1,5 @@
+C:\Users\furka\Desktop\c# hesap makinesi\hesap makinesi.exe
+C:\Users\furka\Desktop\c# hesap makinesi\hesap makinesi.dll
+C:\Users\furka\Desktop\c# hesap makinesi\hesap makinesi.deps.json
+C:\Users\furka\Desktop\c# hesap makinesi\hesap makinesi.runtimeconfig.json
+C:\Users\furka\Desktop\c# hesap makinesi\hesap makinesi.pdb
