@@ -1,2 +1,2 @@
 # c-hesap-makinesi
-Merhabalar bu ilk repository'im hocam verdiği ödevleri github'da böyle paylaşmamızın ileride bir işe girerken işe yarayacağını söylüyor bu sebeple bende paylaşma gereği duydum
+Merhaba bu ilk repository'im c#'dı ama github # kelimesini filtreledi diye proje adı c hesap makinesi oldu bende gerçekten c üzerinde yazıp öyle atayım dedim öyle yaptım başlatmak için .sln dosyasına tıklayıp (vs 2022 kuruluysa) açıp f11 basmanız yeterli olur
